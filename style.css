@@ -19,3 +19,6 @@ img {
     cursor: grab;
   
 }
+.mu-primary-color {
+    background-color: #1976d2 !important;
+  }
